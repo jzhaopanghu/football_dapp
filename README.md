@@ -12,7 +12,7 @@
 **创建、交易球星卡和其他玩法**
 
 ### 效果
-
+[image](https://github.com/jzhaopanghu/football_dapp/blob/master/img/1911680793046_.pic.jpg)
 
 
 
