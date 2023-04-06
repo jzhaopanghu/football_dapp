@@ -1,0 +1,10 @@
+a, input, textarea {
+  display: block;
+}
+
+textarea {
+    margin: 4px;
+    padding: 8px;
+    border: solid 1px #333;
+    width: 80%;
+}
